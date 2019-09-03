@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FriensQA
+title: Babymind
 ---
 
 <link rel="stylesheet" href="/assets/css/member.css">
@@ -10,7 +10,7 @@ title: FriensQA
 <div class="bk-container">
   <img class="bk-img" src="/assets/images/main.png">
   <h1 class="bk-header">
-    FriendsQA for Video Story Understanding
+    Babymind Project
   </h1>
 </div>
 
@@ -32,7 +32,7 @@ title: FriensQA
 
 <div class="about content-container">
   <h1 class = "content-title">
-    What is FriendsQA?
+    What is Babymind Project?
   </h1>
   <p class="content-item">
    FriendsQA is a large-scale video QA dataset based on 6 popular TV shows (<i>Friends, The Big Bang Theory, How I Met Your Mother, House M.D., Grey's Anatomy, Castle</i>). It consists of 152.5K QA pairs from 21.8K video clips, spanning over 460 hours of video. TGhe questions are designed to be compositional, requiring systems to jointly localize relevant moments within a clip, comprehend subtitles-based dialogue, and recognize relevant visual concepts.
