@@ -1,36 +1,24 @@
 - name: About
   child: false
   link: /
-- name: Paper
-  child: false
-  link: /
 - name: People
   child: false
   link: /
-- name: Dataset
+- name: Projects
   child: true
   children : 
-  - name: Overview
-    link: /dataset/overview
-  - name: Explore
-    link: /dataset/explore
-  - name: Download
-    link: /dataset/download
-  - name: Code
-    link: https://github.com/videoturingtest
-- name: Challenge
-  child: true
-  children :
-    - name: 2019
-      link: /challenge/2019
-- name: Workshop
-  child: true
-  children: 
-  - name: 2019
-    link : /workshop/2019
-- name: Sponsor
+  - name: COGNIA
+    link: /dataset/cognia
+  - name: VECA
+    link: /dataset/veca
+- name: Dataset
   child: false
-  link: /sponsor
-- name: Contact
+- name: Open Source
+  child: false
+  link: https://github.com/babymind-project
+- name: Publications
   child: false
   link: /contact
+- name: Board
+  child: false
+  link: /
