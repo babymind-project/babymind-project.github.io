@@ -14,7 +14,7 @@ title: Babymind
   </h2>
 </div>
 
-<div class="update content-container">
+<!--<div class="update content-container">
   <h1 class = "content-title">
     Updates
   </h1>
@@ -28,7 +28,7 @@ title: Babymind
     <span id="more" onclick="showMore()">More</span>
 <span id="noMoreContext" style="display:none;color: #cccccc;"><br>No more news available.</span>
   </p>
-</div>
+</div>-->
 
 <div class="about content-container">
   <h1 class = "content-title">
