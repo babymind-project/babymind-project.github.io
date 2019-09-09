@@ -9,10 +9,10 @@ title: Babymind
 
 <div class="bk-container">
   <img class="bk-img" src="/assets/images/main.png">
-  <h1 class="bk-header">
+  <h2 class="bk-header">
     Babymind Project <br>
-    <h2><i> Building Infant-Mimic Neurocognitive AI </i></h2>
-  </h1>
+    <i> Building Infant-Mimic Neurocognitive AI </i>
+  </h2>
 </div>
 
 <div class="update content-container">
