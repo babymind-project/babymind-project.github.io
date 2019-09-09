@@ -31,18 +31,18 @@ title: Babymind
 </div>-->
 
 <div class="about content-container">
-  <h1 class = "content-title">
+  <h2 class = "content-title">
     What is Babymind Project?
-  </h1>
+  </h2>
   <p class="content-item">
    FriendsQA is a large-scale video QA dataset based on 6 popular TV shows (<i>Friends, The Big Bang Theory, How I Met Your Mother, House M.D., Grey's Anatomy, Castle</i>). It consists of 152.5K QA pairs from 21.8K video clips, spanning over 460 hours of video. TGhe questions are designed to be compositional, requiring systems to jointly localize relevant moments within a clip, comprehend subtitles-based dialogue, and recognize relevant visual concepts.
   </p>
 </div>
 
 <div class="paper content-container">
-  <h1 class = "content-title">
+  <h2 class = "content-title">
     Paper
-  </h1>
+  </h2>
   <p class="content-item">
   FriendsQA: is a large-scale video QA dataset based on 6 popular <br>
   <span id="authors">Seong-Ho Choi, Kyoung-Woon On, Byoung-Tak Zhang.</span>
@@ -54,9 +54,9 @@ title: Babymind
 </div>
 
 <div class="people content-container">
-  <h1 class = "content-title">
+  <h2 class = "content-title">
     People
-  </h1>
+  </h2>
   <div class="content-item">
     {% for person in site.data.people %}
       <div class="member">
