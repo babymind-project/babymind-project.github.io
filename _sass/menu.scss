@@ -121,7 +121,7 @@ nav.navbar {
     width: 2em;
     height: 0.2em;
     border-radius: 0.1em;
-    background-color: black;
+    background-color: none;
     margin: 0.3em;
   }
 
@@ -134,7 +134,7 @@ nav.navbar {
   display: none;
 
   width: 100%;
-  background-color: black;
+  background-color: white;
   position: absolute;
   top: 3em;
   left: 0;
@@ -144,7 +144,7 @@ nav.navbar {
   a {
     display: block;
     text-decoration: none;
-    color: white;
+    color: black;
   }
 
   .toggle-menu, .dropdown {
