@@ -18,7 +18,7 @@
   link: https://github.com/babymind-project
 - name: Publications
   child: false
-  link: /contact
+  link: /publications
 - name: Board
   child: false
   link: /
