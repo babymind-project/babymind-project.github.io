@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Workshop - 2019
-permalink: /workshop/2019/
+title: Publications
+permalink: /publications
 ---
 
 <link rel="stylesheet" href="/assets/css/member.css">
