@@ -11,6 +11,14 @@ permalink: /publications
   <h1 class = "content-title">
     Publications
   </h1>
+  <br>
+  <h2 class = "content-subtitle">
+    ACM Workshop on Wearable Systems and Applications 
+  </h2>
+  <p class="content-item">
+    <li>Towards Machine Learning with Zero Real-World Data (Cholmin Kang, Hyunwoo Jung, Youngki Lee)</li>
+  </p>
+  <br>
   <h2 class = "content-subtitle">
       ICML 2019
   </h2>
@@ -19,13 +27,14 @@ permalink: /publications
     <li>Parsimonious Black-Box Adversarial Attacks via Efficient Combinatorial Optimization (Seungyong Moon, Gaon An, Hyun Oh Song)</li>
     <li>Compositional Structure Learning for Sequential Video Data (Kyoung-Woon On, Eun-Sol Kim, Yu-Jung Heo, Byoung-Tak Zhang)</li>
   </p>
- 
+  <br>
   <h2 class = "content-subtitle">
     CogSci 2019
   </h2>
   <p class="content-item">
     <li>Problem Difficulty in Arithmetic Cognition: Humans and Connectionist Models (Sungjae Cho, Jaeseo Lim, Chris Hickey, and Byoung-Tak Zhang)</li>
   </p>
+  
 
 
   
