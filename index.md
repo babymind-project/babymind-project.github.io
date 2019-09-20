@@ -39,20 +39,6 @@ title: Babymind
   </p>
 </div>
 
-<div class="paper content-container">
-  <h2 class = "content-title">
-    Paper
-  </h2>
-  <p class="content-item">
-  FriendsQA: is a large-scale video QA dataset based on 6 popular <br>
-  <span id="authors">Seong-Ho Choi, Kyoung-Woon On, Byoung-Tak Zhang.</span>
-  </p>
-  <p class="content-item">
-  FriendsQA: is a large-scale video QA dataset based on 6 popular <br>
-  <span id="authors">Seong-Ho Choi, Kyoung-Woon On, Byoung-Tak Zhang.</span>
-  </p>
-</div>
-
 <div class="people content-container">
   <h2 class = "content-title">
     People
