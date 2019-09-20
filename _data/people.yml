@@ -28,7 +28,11 @@
   
 - name: Song Joo Oh
   affiliation: Professor
-  src: /assets/images/people/song-joo-oh.jpg
+  src: /assets/images/people/sungro-yoon.jpeg
+
+- name: Sung Roh Yoon
+  affiliation: Professor
+  src: /assets/images/people/jungwoo-lee.jpg  
   
 - name: Kyogu Lee
   affiliation: Professor
@@ -37,3 +41,11 @@
 - name: Youngki Lee
   affiliation: Professor
   src: /assets/images/people/youngki-lee.png
+
+- name: In Ah Lee
+  affiliation: Professor
+  src: /assets/images/people/inah-lee.jpg
+
+- name: Jung Woo Lee
+  affiliation: Professor
+  src: /assets/images/people/jungwoo-lee.jpg  
