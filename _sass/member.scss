@@ -5,8 +5,8 @@
 }
 
 .member img.member-profile {
-  width: 6em;
-  height: 6em;
+  width: 8em;
+  height: 8em;
   object-fit: cover;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -19,8 +19,8 @@
   content: "";
   display: block;
   position:absolute;
-  width: 6em;
-  height: 6em;
+  width: 8em;
+  height: 8em;
   object-fit: cover;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -32,6 +32,6 @@
 
 .member .member-info {
   color: #5b5b60;
-  font-size: 0.8em;
+  font-size: 1.0em;
   line-height: 1.5em;
 }
