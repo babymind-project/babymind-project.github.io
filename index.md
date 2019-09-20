@@ -35,7 +35,7 @@ title: Babymind
     What is Babymind Project?
   </h2>
   <p class="content-item">
-   FriendsQA is a large-scale video QA dataset based on 6 popular TV shows (<i>Friends, The Big Bang Theory, How I Met Your Mother, House M.D., Grey's Anatomy, Castle</i>). It consists of 152.5K QA pairs from 21.8K video clips, spanning over 460 hours of video. TGhe questions are designed to be compositional, requiring systems to jointly localize relevant moments within a clip, comprehend subtitles-based dialogue, and recognize relevant visual concepts.
+   Babymind is a research project which aims to build infant-mimic neuro-cognitive AI technologies. Our project consists of four sub-teams that are responsible for knowledge integration, vision-audio, language-emotion, and Robot-behavior.   
   </p>
 </div>
 
