@@ -35,7 +35,7 @@ title: Babymind
     What is Babymind Project?
   </h2>
   <p class="content-item">
-   Babymind is a research project which aims to build infant-mimic neuro-cognitive AI technologies. Our project consists of four sub-teams that are responsible for knowledge integration, vision-audio, language-emotion, and Robot-behavior.   
+   Babymind is a research project which aims to build infant-mimic neuro-cognitive AI technologies. Our project consists of four sub-teams that are responsible for knowledge integration, vision-audio, language-emotion, and robot-behavior. We are planning to experiment our project in real and virtual-reality-based environments.     
   </p>
 </div>
 
