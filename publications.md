@@ -11,6 +11,26 @@ permalink: /publications
   <h1 class = "content-title">
     Publications
   </h1>
+  <h2 class = "content-subtitle">
+    NeurIPS 2019 
+  </h2>
+  <p class="content-item">
+    <li>Consistency-based Semi-supervised Learning for Object detection (Jisoo Jeong, Seungeui Lee, Jeesoo Kim, Nojun Kwak)</li>
+  </p>
+  <br>
+  <h2 class = "content-subtitle">
+    EMNLP 2019 
+  </h2>
+  <p class="content-item">
+    <li>Dual Attention Networks for Visual Reference Resolution in Visual Dialog (Gi-Cheon Kang, Jaeseo Lim, Byoung-Tak Zhang)</li>
+  </p>
+  <br>
+  <h2 class = "content-subtitle">
+    ACL 2019 
+  </h2>
+  <p class="content-item">
+    <li>Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension (Daesik Kim, Seonhoon Kim and Nojun Kwak)</li>
+  </p>  
   <br>
   <h2 class = "content-subtitle">
     ICCS 2019 
