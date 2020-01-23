@@ -63,7 +63,7 @@ permalink: /publications
   </p>
   <br>
   <h2 class = "content-subtitle">
-    ACM Workshop on Wearable Systems and Applications 
+    WearSys 2019
   </h2>
   <p class="content-item">
     <li>Towards Machine Learning with Zero Real-World Data (Cholmin Kang, Hyunwoo Jung, Youngki Lee)</li>
