@@ -56,12 +56,32 @@ permalink: /publications
   </p>
   <br>
   <h2 class = "content-subtitle">
-    HISPhonCog 2019 
+    IROS 2019 
   </h2>
   <p class="content-item">
-    <li>Accented vs native exposure in child second language intelligibility (Margarethe McDonald, Eon-Suk Ko)</li>
+    <li>Fast and Safe Policy Adaptation via Alignment-based Transfer (Jigang Kim,  Seungwon Choi, Hyoun Jin Kim)</li>
   </p>
+  
   <br>
+  
+  <h2 class = "content-subtitle">
+    INTERSPEECH 2019 
+  </h2>
+  <p class="content-item">
+    <li>Adversarially Trained End-to-end Korean Singing Voice Synthesis System (Juheon Lee, Hyeong-Seok Choi, Chang-Bin Jeon, Junghyun Koo, Kyogu Lee)</li>
+  </p>
+  
+  <br>
+  
+  <h2 class = "content-subtitle">
+    ISMIR 2019 
+  </h2>
+  <p class="content-item">
+    <li>AUDIO QUERY-BASED MUSIC SOURCE SEPARATION (Jie Hwan Lee, Hyeong-Seok Choi, Kyogu Lee)</li>
+  </p>
+  
+  <br>
+  
   <h2 class = "content-subtitle">
     WearSys 2019
   </h2>
