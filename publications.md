@@ -12,6 +12,85 @@ permalink: /publications
     Publications
   </h1>
   <h2 class = "content-subtitle">
+    CVPR 2020
+  </h2>
+  <p class="content-item">
+    <li>Hypergraph Attention Networks for Multimodal Learning (Eun-Sol Kim, Woo-Young Kang, Yu-Jung Heo, Kyoung-Woon On, Byoung-Tak Zhang)</li>
+  </p>
+  <br>
+  <h2 class = "content-subtitle">
+    ICASSP 2020
+  </h2>
+  <p class="content-item">
+    <li>Label Propagation Adaptive Resonance Theory for Semi-supervised Continuous Learning (Taehyeong Kim, Injune Hwang, Gi-Cheon Kang, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang)</li>
+    <li>Digital Watermarking for Protecting Audio Classification Datasets (Wansoo Kim, Kyogu Lee)</li>
+  </p>
+  <br>
+  <h2 class = "content-subtitle">
+    AAAI 2020
+  </h2>
+  <p class="content-item">
+    <li>Cut-Based Graph Learning Networks to Discover Compositional Structure of Sequential Video Data (Kyoung-Woon On, Eun-Sol Kim, Yu-Jung Heo, Byoung-Tak Zhang)</li>
+    <li>REST: performance improvement of a black box model via RL based spatial transformation (Jaemyung Kim, Chanwoo Park, Hyungjin Kim, Jungwoo Lee)</li>
+  </p>
+  <br>
+  <h2 class = "content-subtitle">
+    Clinical Psychological Science 2020
+  </h2>
+  <p class="content-item">
+    <li>Anxiety Predicts Diminished Preference for Immediate Rewards in Trait-Impulsive Individuals: A Hierarchical Bayesian Analysis (Nathaniel Haines, Theodore Beauchaine, Matthew Galdo, Andrew H Rogers, Hunter Hahn, Mark A. Pitt, Brandon M Turner, Woo-Young Ahn)</li>
+  </p>
+  <br>
+  <h2 class = "content-subtitle">
+    Behavior Research Methods 2020
+  </h2>
+  <p class="content-item">
+    <li>ADOpy: A Python Package for Adaptive Design Optimization (Jaeyeong Yang, Mark A. Pitt, Woo-Young Ahn, Jay I Myung) </li>
+  </p>
+  <br>
+  <h2 class = "content-subtitle">
+    ICLR 2020
+  </h2>
+  <p class="content-item">
+    <li>From Inference to Generation: End-to-end Fully Self-supervised Generation of Human Face from Speech (Hyeong-Seok Choi, Changdae Park, Kyogu Lee)</li>
+  </p>
+  <br>
+  <h2 class = "content-subtitle">
+    RA-L 2020
+  </h2>
+  <p class="content-item">
+    <li>Learning Transformable and Plannable se(3) Features for Scene Imitation of a Mobile Service Robot (J.Hyeon Park, Jigang Kim, Younseok Jang, Inkyu Jang, H.Jin Kim</li>
+  </p>
+  <br>
+  <h2 class = "content-subtitle">
+    Nature Protocols 2020
+  </h2>
+  <p class="content-item">
+    <li>Toward a unified framework for interpreting machine-learning models in neuroimaging (Lada Kohoutová, Juyeon Heo, Sungmin Cha, Sungwoo Lee, Taesup Moon, Tor D. Wager, Choong-Wan Woo)</li>
+  </p>
+  <br>
+  <h2 class = "content-subtitle">
+    Vision Research 2020
+  </h2>
+  <p class="content-item">
+    <li>The stone-base illusion (Songjoo Oh)</li>
+  </p>
+  <br>
+  <h2 class = "content-subtitle">
+    ICPRAM 2020
+  </h2>
+  <p class="content-item">
+    <li>Self-Training using selection network for Semi-Supervised Learning (Jisoo Jeong, Seungeui Lee, Nojun Kwak)</li>
+  </p>
+  <br>
+  <h2 class = "content-subtitle">
+    WACV 2020 
+  </h2>
+  <p class="content-item">
+    <li>SINet: Extreme Lightweight Portrait Segmentation Networks with Spatial Squeeze Module and Information Blocking Decoder (Hyojin Park, Lars Sjösund, Youngjoon Yoo, Nicolas Monet, Jihwan Bang, Nojun Kwak)</li>
+  </p>
+  <br>
+  <h2 class = "content-subtitle">
     NeurIPS 2019 
   </h2>
   <p class="content-item">
