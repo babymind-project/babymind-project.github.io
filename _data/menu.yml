@@ -6,13 +6,21 @@
   link: /
 - name: Projects
   child: true
-  children : 
+  children :
   - name: COGNIA
-    link: /dataset/cognia
+    link: https://github.com/babymind-project/COGNIA
   - name: VECA
-    link: /dataset/veca
-- name: Dataset
+    link: https://github.com/GGOSinon/VECA
+- name: Workshop
   child: false
+  link: https://babymind-workshop-2020.github.io/
+- name: Dataset
+  child: true
+  children:
+  - name: Mother-child interaction
+    link: https://osf.io/w2puc/?view_only=0d482522d36147a0b0a6620ea51989e3
+  - name: API
+    link: https://github.com/terrykwon/lena_evaluation
 - name: Open Source
   child: false
   link: https://github.com/babymind-project
