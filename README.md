@@ -1,4 +1,4 @@
-# How to friendsqa.github.io
+# How to babymind-project.github.io
 
 ### Update | About | Paper | People
 #### Source : index.md
