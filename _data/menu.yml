@@ -17,8 +17,8 @@
 - name: Dataset
   child: true
   children:
-  - name: Mother-child interaction
-    link: https://osf.io/w2puc/?view_only=0d482522d36147a0b0a6620ea51989e3
+  - name: Korean Ko Corpus
+    link: https://childes.talkbank.org/access/EastAsian/Korean/Ko.html
   - name: API
     link: https://github.com/terrykwon/lena_evaluation
 - name: Open Source
